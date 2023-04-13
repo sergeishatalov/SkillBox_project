@@ -7,5 +7,7 @@ def menu(a):
 
 menu(10)
 
+print('привет')
+
 
 
